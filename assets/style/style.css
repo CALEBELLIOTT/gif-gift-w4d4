@@ -1,0 +1,6 @@
+/* BASIC STYLES HERE */
+
+.gifs-preview {
+  max-height: 80vh;
+  overflow: scroll;
+}
